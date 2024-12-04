@@ -1,1 +1,3 @@
 Hello odin, some more changes in here.
+
+Testing removing VIM as the default commit message editor.
